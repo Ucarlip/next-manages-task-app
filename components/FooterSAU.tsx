@@ -7,7 +7,7 @@ export default function FooterSAU() {
         <h3>
           &copy; 2026 Southeast Asia University. All rights reserved
           <br />
-          Created By Baramee SAU
+          Created By Phatsapong SAU
         </h3>
       </div>
     </>
